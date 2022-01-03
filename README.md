@@ -33,7 +33,7 @@ from sklearn.metrics import accuracy_score, classification_report,confusion_matr
 from sklearn.model_selection import train_test_split
 
 ```
-##Running the app interface
+## Running the app interface
 
 after making sure you installed the pre-requisits of the above packages now you can go to the app file directory and run in your preferred terminal by writing the below command: 
 
